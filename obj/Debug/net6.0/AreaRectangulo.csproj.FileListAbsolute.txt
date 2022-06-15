@@ -1,0 +1,15 @@
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\bin\Debug\net6.0\AreaRectangulo.exe
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\bin\Debug\net6.0\AreaRectangulo.deps.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\bin\Debug\net6.0\AreaRectangulo.runtimeconfig.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\bin\Debug\net6.0\AreaRectangulo.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\bin\Debug\net6.0\AreaRectangulo.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\obj\Debug\net6.0\AreaRectangulo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\obj\Debug\net6.0\AreaRectangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\obj\Debug\net6.0\AreaRectangulo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\obj\Debug\net6.0\AreaRectangulo.AssemblyInfo.cs
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\obj\Debug\net6.0\AreaRectangulo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\obj\Debug\net6.0\AreaRectangulo.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\obj\Debug\net6.0\refint\AreaRectangulo.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\obj\Debug\net6.0\AreaRectangulo.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\obj\Debug\net6.0\AreaRectangulo.genruntimeconfig.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Area de un rectangulo\AreaRectangulo\obj\Debug\net6.0\ref\AreaRectangulo.dll
